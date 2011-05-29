@@ -1,6 +1,6 @@
 # Custom Template Data
-url:                           # Custom                 | Site subfolder path - no trailing slash - e.g. <a href="{{ site.url }}/path/to/page/"></a>
-#url: /viewsourceme             #                       | Uncomment this line if hosting on GitHub Pages without a CNAME e.g. http://chrisjacob.github.com/firemonkeyio
+#url:                           # Custom                 | Site subfolder path - no trailing slash - e.g. <a href="{{ site.url }}/path/to/page/"></a>
+url: /viewsourceme             #                       | Uncomment this line if hosting on GitHub Pages without a CNAME e.g. http://chrisjacob.github.com/firemonkeyio
 #base-url: /viewsourceme        # Default: "/"          | Base URL: Serve website from a given base URL.
 
 

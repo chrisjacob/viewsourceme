@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<!-- http://sitemaps.org/protocol.php -->
+   <url>
+      <loc>http://viewsource.me/</loc>
+      <lastmod>2011-05-29</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 

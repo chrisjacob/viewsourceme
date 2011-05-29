@@ -19,7 +19,7 @@ plugins: ./_plugins             # Default: "./_plugins" | GitHub Pages: plugins 
 
 future: true                    # Default: "true"       |
 lsi: false                      # Default: "false"      | GitHub Pages: "false". LSI: Produces an index for related posts. 
-pygments: true                 	# Default: "false"      | GitHub Pages: "true". Pygments: Enables highlight tag with Pygments. 
+pygments: false                 	# Default: "false"      | GitHub Pages: "true". Pygments: Enables highlight tag with Pygments. 
 markdown: maruku                # Default: "maruku"     | Markdown: Uses RDiscount or [engine] instead of Maruku. 
 permalink: pretty               # Default: "date"       | Permalink: Controls the URLs that posts are generated with. See https://github.com/mojombo/jekyll/wiki/Permalinks
                                 #                       | Note: "pretty" appends a "/" at the end e.g. /path/to/page/. See: https://github.com/mojombo/jekyll/issues/39

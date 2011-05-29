@@ -3,7 +3,7 @@
 url: /viewsourceme             #                       | Uncomment this line if hosting on GitHub Pages without a CNAME e.g. http://chrisjacob.github.com/firemonkeyio
 base-url: /viewsourceme        # Default: "/"          | Base URL: Serve website from a given base URL.
 
-
+testing: this-here
 
 # Jekyll Configuration Settings
 # https://github.com/mojombo/jekyll/wiki/Configuration
